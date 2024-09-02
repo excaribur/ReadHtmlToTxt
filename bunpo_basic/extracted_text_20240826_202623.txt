@@ -1,0 +1,14 @@
+การผันคำกริยาเป็นรูปอดีตไวยากรณ์S　＋　wa　＋　N　＋　deshita私は先生でした。 　　　watashi wa sensei deshita 　　ฉันเคยเป็นครูค่ะS　＋　wa　＋　Adj.na　＋　deshita私は綺麗でした。 　　　watashi wa kirei deshita 　　　ฉันเคยสวยค่ะS　＋　wa　＋　Adj.i　＋　katta desu私は可愛いかったです。 watashi wa kawai katta desu 　ฉันเคยน่ารักค่ะS　＋　wa　＋　V.ma shita私は行きました。 　　　watashi wa ikimashita 　　　　ฉันไป..(สถานที่)..มาค่ะ
+การผันคำกริยาเป็นรูปอดีต
+ไวยากรณ์
+S　＋　wa　＋　N　＋　deshita
+私は先生でした。 　　　watashi wa sensei deshita 　　ฉันเคยเป็นครูค่ะ
+
+S　＋　wa　＋　Adj.na　＋　deshita
+私は綺麗でした。 　　　watashi wa kirei deshita 　　　ฉันเคยสวยค่ะ
+
+S　＋　wa　＋　Adj.i　＋　katta desu
+私は可愛いかったです。 watashi wa kawai katta desu 　ฉันเคยน่ารักค่ะ
+
+S　＋　wa　＋　V.ma shita
+私は行きました。 　　　watashi wa ikimashita 　　　　ฉันไป..(สถานที่)..มาค่ะ

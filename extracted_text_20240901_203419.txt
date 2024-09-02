@@ -1,0 +1,49 @@
+สถานีรถไฟ
+
+駅ekiสถานีรถไฟ切符はどこで買えますか？kippu wa doko de kaemasu kaซื้อตั๋วได้ที่ไหนครับ/คะスイカを買いたいです。suika wo kaitai desuอยากซื้อบัตรซุยกะครับ/ค่ะすいません。ここは何駅ですか。suimasen koko wa nani eki desu kaขอโทษนะครับ/คะ ที่นี่สถานีอะไรครับ/คะ新宿駅に行きたいです。どうやって行けばいいですか。shinjuku eki ni ikitai desu douyatte ikeba ii desu kaอยากไปสถานีชินจูกุ ไปยังไงดีครับ/คะこの電車は○○へ行きますか？kono densha wa xx e ikimasu kaรถไฟขบวนนี้ไปที่ … ไหมคะ次の電車は何時に来ますか？tsugi no densha wa nanji ni kimasu kaรถไฟขบวนถัดไปจะมาเมื่อไหร่ครับ/คะ始発は何時ですか？shihatsu wa nanji desu kaรถไฟเที่ยวแรกกี่โมงครับ/คะ終電は何時ですか？shuuden wa nanji desu kaรถไฟเที่ยวสุดท้ายกี่โมงครับ/คะもしこの駅に着いたら教えてもらえますか？moshi kono eki ni tsuitara oshiete moraemasu kaถ้าถึงสถานีแล้วช่วยบอกหน่อยได้ไหมครับ/คะすいません。切符をなくしました。suimasen kippu wo nakushimashitaขอโทษนะครับ/คะ ทำตั๋วหายครับ/ค่ะどの駅から乗りましたか？dono eki kara norimashita kaขึ้นมาจากสถานีไหนครับ/คะ
+駅
+eki
+สถานีรถไฟ
+
+切符はどこで買えますか？
+kippu wa doko de kaemasu ka
+ซื้อตั๋วได้ที่ไหนครับ/คะ
+
+スイカを買いたいです。
+suika wo kaitai desu
+อยากซื้อบัตรซุยกะครับ/ค่ะ
+
+すいません。ここは何駅ですか。
+suimasen koko wa nani eki desu ka
+ขอโทษนะครับ/คะ ที่นี่สถานีอะไรครับ/คะ
+
+新宿駅に行きたいです。どうやって行けばいいですか。
+shinjuku eki ni ikitai desu douyatte ikeba ii desu ka
+อยากไปสถานีชินจูกุ ไปยังไงดีครับ/คะ
+
+この電車は○○へ行きますか？
+kono densha wa xx e ikimasu ka
+รถไฟขบวนนี้ไปที่ … ไหมคะ
+
+次の電車は何時に来ますか？
+tsugi no densha wa nanji ni kimasu ka
+รถไฟขบวนถัดไปจะมาเมื่อไหร่ครับ/คะ
+始発は何時ですか？
+shihatsu wa nanji desu ka
+รถไฟเที่ยวแรกกี่โมงครับ/คะ
+
+終電は何時ですか？
+shuuden wa nanji desu ka
+รถไฟเที่ยวสุดท้ายกี่โมงครับ/คะ
+
+もしこの駅に着いたら教えてもらえますか？
+moshi kono eki ni tsuitara oshiete moraemasu ka
+ถ้าถึงสถานีแล้วช่วยบอกหน่อยได้ไหมครับ/คะ
+
+すいません。切符をなくしました。
+suimasen kippu wo nakushimashita
+ขอโทษนะครับ/คะ ทำตั๋วหายครับ/ค่ะ
+
+どの駅から乗りましたか？
+dono eki kara norimashita ka
+ขึ้นมาจากสถานีไหนครับ/คะ

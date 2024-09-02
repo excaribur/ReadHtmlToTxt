@@ -1,0 +1,21 @@
+การแต่งประโยคบอกเล่า พาร์ต 2ไวยากรณ์S　＋　wa　＋　V masu私は食べます。 　　　　watashi wa tabemasu 　　　　　　  ฉันกินค่ะS　＋　wa　＋　O　＋　wo　＋　V masu私はご飯を食べます。 　watashi wa gohan wo tabemasu 　　ฉันกินข้าวค่ะS　＋　wa　＋　Place　＋　e　＋　V masu私は学校へ行きます。 　watashi wa gakkou e ikimasu 　　　  ฉันจะไปโรงเรียนค่ะS　＋　wa　＋　Place　＋　de　＋　V masu私は学校で食べます。 　watashi wa gakkou de tabemasu 　　ฉันจะกินที่โรงเรียนค่ะいます　imasu　มี, อยู่ (S เป็นสิ่งมีชีวิต)あります　arimasu มี, อยู่ (S เป็นสิ่งไม่มีชีวิต)S　＋　wa　＋　Place　＋　ni 　＋　V masu私は学校に居ます。 　　watashi wa gakkou ni imasu　 　　　ฉันอยู่โรงเรียนค่ะペンは学校にあります。 pen wa gakkou ni arimasu 　　　　　ปากกาอยู่โรงเรียน
+การแต่งประโยคบอกเล่า พาร์ต 2
+ไวยากรณ์
+S　＋　wa　＋　V masu
+私は食べます。 　　　　watashi wa tabemasu 　　　　　　  ฉันกินค่ะ
+
+S　＋　wa　＋　O　＋　wo　＋　V masu
+私はご飯を食べます。 　watashi wa gohan wo tabemasu 　　ฉันกินข้าวค่ะ
+
+S　＋　wa　＋　Place　＋　e　＋　V masu
+私は学校へ行きます。 　watashi wa gakkou e ikimasu 　　　  ฉันจะไปโรงเรียนค่ะ
+
+S　＋　wa　＋　Place　＋　de　＋　V masu
+私は学校で食べます。 　watashi wa gakkou de tabemasu 　　ฉันจะกินที่โรงเรียนค่ะ
+
+います　imasu　มี, อยู่ (S เป็นสิ่งมีชีวิต)
+あります　arimasu มี, อยู่ (S เป็นสิ่งไม่มีชีวิต)
+
+S　＋　wa　＋　Place　＋　ni 　＋　V masu
+私は学校に居ます。 　　watashi wa gakkou ni imasu　 　　　ฉันอยู่โรงเรียนค่ะ
+ペンは学校にあります。 pen wa gakkou ni arimasu 　　　　　ปากกาอยู่โรงเรียน

@@ -1,0 +1,19 @@
+การแต่งประโยคคำถามไวยากรณ์S　＋　wa　＋　N　＋　desuka?これはペンですか？ 　　　　　kore wa pen desuka 　　　　　　อันนี้คือปากกาใช่ไหมคะS　＋　wa　＋　Adj.　＋　desuka彼女は綺麗ですか？ 　　　　　kanojyo wa kirei desuka 　　　　 เขาสวยไหมคะS　＋　wa　＋　V masu　＋　ka?あなたは食べますか？ 　　　　anata wa tabemasuka 　　　　　 คุณกินไหมคะS　＋　wa　＋　O　＋　wo　＋　V masu　＋　ka?彼はラーメンを食べますか？　 kare wa ra-men wo tabemasuka 　เขากินราเมนไหมคะS　＋　wa　＋　Place　＋　he　＋　V masu　＋　ka?S　＋　wa　＋　Place　＋　de　＋　V masu　＋　ka?S　＋　wa　＋　Place　＋　ni　 ＋    V masu　＋　ka?
+การแต่งประโยคคำถาม
+ไวยากรณ์
+
+S　＋　wa　＋　N　＋　desuka?
+これはペンですか？ 　　　　　kore wa pen desuka 　　　　　　อันนี้คือปากกาใช่ไหมคะ
+
+S　＋　wa　＋　Adj.　＋　desuka
+彼女は綺麗ですか？ 　　　　　kanojyo wa kirei desuka 　　　　 เขาสวยไหมคะ
+
+S　＋　wa　＋　V masu　＋　ka?
+あなたは食べますか？ 　　　　anata wa tabemasuka 　　　　　 คุณกินไหมคะ
+
+S　＋　wa　＋　O　＋　wo　＋　V masu　＋　ka?
+彼はラーメンを食べますか？　 kare wa ra-men wo tabemasuka 　เขากินราเมนไหมคะ
+
+S　＋　wa　＋　Place　＋　he　＋　V masu　＋　ka?
+S　＋　wa　＋　Place　＋　de　＋　V masu　＋　ka?
+S　＋　wa　＋　Place　＋　ni　 ＋    V masu　＋　ka?

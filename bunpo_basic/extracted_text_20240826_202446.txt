@@ -1,0 +1,24 @@
+การแต่งประโยคบอกเล่า พาร์ต 1คำศัพท์代名詞 　　だいめいし 　　daimeishi 　　　　สรรพนาม動詞 　　　どうし 　　　　doushi 　　　　　  กริยา名詞 　　　めいし 　　　　meishi 　　　　　  คำนาม形容詞 　　けいようし 　　keiyoushi 　　　　 คุณศัพท์い形容詞 　いけいようし 　i keiyoushi 　　　   คุณศัพท์ อิな形容詞 　なけいようし 　na keiyoushi 　　　คุณศัพท์ นะこれ 　　　　　　　　　　 kore 　　　　　　　อันนี้それ 　　　　　　　　　　 sore 　　　　　　　อันนั้นあれ 　　　　　　　　　　 are 　　　　　　　  อันโน้นこれは...です。 　　　　　  kore wa … desu 　  อันนี้ คือ … ครับ / ค่ะそれは...です。 　　　　　  sore wa … desu 　  อันนั้น คือ … ครับ / ค่ะあれは...です。 　　　　　  Are wa … desu 　　อันโน้น คือ … ครับ / ค่ะไวยากรณ์S　＋　wa　＋　Adj.　＋　desu私は綺麗です。　 わたしはきれいです。　         watashi wa kirei desu　    　   ฉันสวยค่ะこれは綺麗です。  これはきれいです。　            kore wa kirei desu　               อันนี้สวยค่ะS　＋　wa　＋　Adj.　＋　N　＋　desu私は綺麗な人です。わたしはきれいなひとです。watashi wa kirei na hito desu  ฉันเป็นคนสวยค่ะ私は可愛い人です。わたしはかわいいひとです。watashi wa kawaii hito desu   ฉันเป็นคนน่ารักค่ะ
+การแต่งประโยคบอกเล่า พาร์ต 1
+คำศัพท์
+代名詞 　　だいめいし 　　daimeishi 　　　　สรรพนาม
+動詞 　　　どうし 　　　　doushi 　　　　　  กริยา
+名詞 　　　めいし 　　　　meishi 　　　　　  คำนาม
+形容詞 　　けいようし 　　keiyoushi 　　　　 คุณศัพท์
+い形容詞 　いけいようし 　i keiyoushi 　　　   คุณศัพท์ อิ
+な形容詞 　なけいようし 　na keiyoushi 　　　คุณศัพท์ นะ
+
+これ 　　　　　　　　　　 kore 　　　　　　　อันนี้
+それ 　　　　　　　　　　 sore 　　　　　　　อันนั้น
+あれ 　　　　　　　　　　 are 　　　　　　　  อันโน้น
+これは...です。 　　　　　  kore wa … desu 　  อันนี้ คือ … ครับ / ค่ะ
+それは...です。 　　　　　  sore wa … desu 　  อันนั้น คือ … ครับ / ค่ะ
+あれは...です。 　　　　　  Are wa … desu 　　อันโน้น คือ … ครับ / ค่ะ
+
+ไวยากรณ์
+S　＋　wa　＋　Adj.　＋　desu
+私は綺麗です。　 わたしはきれいです。　         watashi wa kirei desu　    　   ฉันสวยค่ะ
+これは綺麗です。  これはきれいです。　            kore wa kirei desu　               อันนี้สวยค่ะ
+S　＋　wa　＋　Adj.　＋　N　＋　desu
+私は綺麗な人です。わたしはきれいなひとです。watashi wa kirei na hito desu  ฉันเป็นคนสวยค่ะ
+私は可愛い人です。わたしはかわいいひとです。watashi wa kawaii hito desu   ฉันเป็นคนน่ารักค่ะ

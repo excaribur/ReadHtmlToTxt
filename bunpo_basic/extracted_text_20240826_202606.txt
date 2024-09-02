@@ -1,0 +1,26 @@
+การแต่งประโยคปฏิเสธไวยากรณ์S　＋　wa　＋　N　＋　dewa arimasenS　＋　wa　＋　N　＋　jya arimasenこれは本ではありません。　 kore wa hon dewa arimasen 　　　 อันนี้ไม่ใช่หนังสือครับ/ค่ะこれは本じゃありません。 　kore wa hon jya arimasenS　＋　wa　＋　N　＋　dewa nai desuS　＋　wa　＋　N　＋　jya nai desuこれは本ではないです。 　　kore wa hon dewa naidesu 　　　　 อันนี้ไม่ใช่หนังสือครับ/ค่ะこれは本じゃないです。 　　kore wa hon jya naidesuS　＋　wa　＋　Adj.na　＋　dewa nai desuS　＋　wa　＋　Adj.na　＋　jya nai desuこれは綺麗ではありません。 kore wa kirei dewa naidesu 　　　　 อันนี้ไม่สวยครับ/ค่ะこれは綺麗じゃありません。 kore wa kire jya naidesuS　＋　wa　＋　Adj.i　＋　ku arimasenこれはおいしくありません。 kore wa oishiku arimasen 　　　　　 อันนี้ไม่อร่อยครับ/ค่ะS　＋　wa　＋　V masen私は食べません。 　　　　　watashi wa tabemasen 　　　　　　  ฉันไม่กินค่ะS　＋　wa　＋　O　＋　wo　＋　V masen私はご飯を食べません。 　　watashi wa gohan wo tabemasen 　　ฉันไม่กินข้าวค่ะ
+การแต่งประโยคปฏิเสธ
+ไวยากรณ์
+S　＋　wa　＋　N　＋　dewa arimasen
+S　＋　wa　＋　N　＋　jya arimasen
+これは本ではありません。　 kore wa hon dewa arimasen 　　　 อันนี้ไม่ใช่หนังสือครับ/ค่ะ
+これは本じゃありません。 　kore wa hon jya arimasen
+
+S　＋　wa　＋　N　＋　dewa nai desu
+S　＋　wa　＋　N　＋　jya nai desu
+これは本ではないです。 　　kore wa hon dewa naidesu 　　　　 อันนี้ไม่ใช่หนังสือครับ/ค่ะ
+これは本じゃないです。 　　kore wa hon jya naidesu
+
+S　＋　wa　＋　Adj.na　＋　dewa nai desu
+S　＋　wa　＋　Adj.na　＋　jya nai desu
+これは綺麗ではありません。 kore wa kirei dewa naidesu 　　　　 อันนี้ไม่สวยครับ/ค่ะ
+これは綺麗じゃありません。 kore wa kire jya naidesu
+
+S　＋　wa　＋　Adj.i　＋　ku arimasen
+これはおいしくありません。 kore wa oishiku arimasen 　　　　　 อันนี้ไม่อร่อยครับ/ค่ะ
+
+S　＋　wa　＋　V masen
+私は食べません。 　　　　　watashi wa tabemasen 　　　　　　  ฉันไม่กินค่ะ
+
+S　＋　wa　＋　O　＋　wo　＋　V masen
+私はご飯を食べません。 　　watashi wa gohan wo tabemasen 　　ฉันไม่กินข้าวค่ะ

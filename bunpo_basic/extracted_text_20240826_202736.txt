@@ -1,0 +1,13 @@
+(เพราะว่า) ...ก็เลย (kara, node)ไวยากรณ์ประโยค A + kara + ประโยค B私はケーキが好きですからケーキを食べます。watashi wa ke-ki ga suki desu kara ke-ki wo tabemasu(เพราะว่า) ฉันชอบเค้ก ก็เลยกินเค้กค่ะ/ครับประโยค A + node + ประโยค B私は日本が好きですので日本語を勉強します。watashi wa nihon ga suki desu node nihongo wo benkyou shimasu(เพราะว่า)  ฉันชอบประเทศญี่ปุ่น ก็เลยเรียนภาษาญี่ปุ่นค่ะ/ครับ
+(เพราะว่า) ...ก็เลย (kara, node)
+
+ไวยากรณ์
+ประโยค A + kara + ประโยค B
+私はケーキが好きですからケーキを食べます。
+watashi wa ke-ki ga suki desu kara ke-ki wo tabemasu
+(เพราะว่า) ฉันชอบเค้ก ก็เลยกินเค้กค่ะ/ครับ
+
+ประโยค A + node + ประโยค B
+私は日本が好きですので日本語を勉強します。
+watashi wa nihon ga suki desu node nihongo wo benkyou shimasu
+(เพราะว่า)  ฉันชอบประเทศญี่ปุ่น ก็เลยเรียนภาษาญี่ปุ่นค่ะ/ครับ

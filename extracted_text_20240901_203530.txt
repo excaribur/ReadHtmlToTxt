@@ -1,0 +1,86 @@
+สนามบิน
+
+空港kuukouสนามบิน出国shukkokuขาออก入国nyuukokuขาเข้า入国審査nyuukokushinsaด่านตรวจคนเข้าเมือง両替所ryougaejoที่แลกเงิน税関zeikanศุลกากรゲートgeetoประตูขึ้นเครื่อง (Gate)免税店menzeitenร้านค้าปลอดภาษี免税手続きmenzei tetsudzukiขอคืนภาษี預け荷物azuke nimotsuสัมภาระโหลดใต้ท้องเครื่อง機内持ち込みkinai mochikomiสัมภาระที่นำขึ้นเครื่อง, carry on重量juuryouน้ำหนัก重量制限juuryouseigenข้อจำกัดน้ำหนักกระเป๋าเดินทางパスポートpasupootoหนังสือเดินทางモバイルバッテリーmobairubatteriiแบตเตอร์รี่สำรอง, พาวเวอร์แบงค์ポータブル電源pootaburu dengenแบตเตอร์รี่สำรอง, พาวเวอร์แบงค์搭乗開始toujoukaishiเวลาขึ้นเครื่อง離陸ririkuเครื่องบินออก/ขึ้น釈陸shakurikuเครื่องบินลงロストバゲージrosutobageejiกระเป๋าหาย持ち込み禁止mochikomi kinshiห้ามนำขึ้นเครื่อง
+空港
+kuukou
+สนามบิน
+
+出国
+shukkoku
+ขาออก
+
+入国
+nyuukoku
+ขาเข้า
+
+入国審査
+nyuukokushinsa
+ด่านตรวจคนเข้าเมือง
+
+両替所
+ryougaejo
+ที่แลกเงิน
+
+税関
+zeikan
+ศุลกากร
+
+ゲート
+geeto
+ประตูขึ้นเครื่อง (Gate)
+
+免税店
+menzeiten
+ร้านค้าปลอดภาษี
+
+免税手続き
+menzei tetsudzuki
+ขอคืนภาษี
+
+預け荷物
+azuke nimotsu
+สัมภาระโหลดใต้ท้องเครื่อง
+
+機内持ち込み
+kinai mochikomi
+สัมภาระที่นำขึ้นเครื่อง, carry on
+
+重量
+juuryou
+น้ำหนัก
+
+重量制限
+juuryouseigen
+ข้อจำกัดน้ำหนักกระเป๋าเดินทาง
+
+パスポート
+pasupooto
+หนังสือเดินทาง
+
+モバイルバッテリー
+mobairubatterii
+แบตเตอร์รี่สำรอง, พาวเวอร์แบงค์
+
+ポータブル電源
+pootaburu dengen
+แบตเตอร์รี่สำรอง, พาวเวอร์แบงค์
+
+搭乗開始
+toujoukaishi
+เวลาขึ้นเครื่อง
+
+離陸
+ririku
+เครื่องบินออก/ขึ้น
+
+釈陸
+shakuriku
+เครื่องบินลง
+
+ロストバゲージ
+rosutobageeji
+กระเป๋าหาย
+
+持ち込み禁止
+mochikomi kinshi
+ห้ามนำขึ้นเครื่อง

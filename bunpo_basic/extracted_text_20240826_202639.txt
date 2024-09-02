@@ -1,0 +1,17 @@
+มี  ไม่มีไวยากรณ์S　＋　wa　＋　O　＋　ga　＋　arimasuS　＋　wa　＋　O　＋　ga　＋　imasu私はお金があります。 　watashi wa okane ga arimasu 　  ฉันมีเงินค่ะ私は弟がいます。 　　　watashi wa otouto ga imasu 　　 ฉันมีน้องชายค่ะ私はお金がありません。 watashi wa okane ga arimasen 　ฉันไม่มีเงินค่ะ私は弟がいません。 　　watashi wa otouto ga imasen 　　ฉันไม่มีน้องชายค่ะ私はお金がありました。 watashi wa okane ga arimashita    ฉันเคยมีเงินค่ะ私は恋人がいました。 　watashi wa koibito ga imashita 　  ฉันเคยมีแฟนค่ะ
+มี  ไม่มี
+ไวยากรณ์
+S　＋　wa　＋　O　＋　ga　＋　arimasu
+S　＋　wa　＋　O　＋　ga　＋　imasu
+
+私はお金があります。 　watashi wa okane ga arimasu 　  ฉันมีเงินค่ะ
+
+私は弟がいます。 　　　watashi wa otouto ga imasu 　　 ฉันมีน้องชายค่ะ
+
+私はお金がありません。 watashi wa okane ga arimasen 　ฉันไม่มีเงินค่ะ
+
+私は弟がいません。 　　watashi wa otouto ga imasen 　　ฉันไม่มีน้องชายค่ะ
+
+私はお金がありました。 watashi wa okane ga arimashita    ฉันเคยมีเงินค่ะ
+
+私は恋人がいました。 　watashi wa koibito ga imashita 　  ฉันเคยมีแฟนค่ะ

@@ -1,0 +1,72 @@
+ร้านอาหาร
+いらっしゃいませ。irasshamaseยินดีต้อนรับครับ/ค่ะ何名様ですか？nan mei sama desu kaกี่ท่านครับ/คะ2人です。futari desu2 คนครับ/ค่ะ喫煙ですか？禁煙ですか？kitsuen desu ka? kinen desu ka?ที่นั่งโซนสูบบุหรี่หรือไม่สูบบุหรี่ครับ/คะこちらへどうぞ。kochira e douzoเชิญทางนี้ครับ/ค่ะ二名様ご来店です。ni mei sama goraiten desuลูกค้าสองท่านกำลังเข้าร้านครับ/ค่ะ申し訳ありません。只今満席です。moushi wake arimasen tadaima manseki desuต้องขออภัยด้วยนะครับ/คะ ขณะนี้ที่นั่งเต็มครับ/ค่ะどれくらい待ちますか。dore kurai machi masu kaต้องรอนานแค่ไหนครับ/คะメニューをください。menyuu wo kudasaiขอเมนูหน่อยครับ/ค่ะこれください。kore kudasaiเอาอันนี้ครับ/ค่ะ以上です。ijou desuแค่นี้ครับ/ค่ะこれは牛肉ですか？kore wa gyuuniku desu kaอันนี้คือเนื้อวัวหรือเปล่าครับ/ค่ะわさび抜きでお願いします。wasabi nuki de onegai shimasuขอไม่ใส่วาซาบิครับ/ค่ะ注文した料理がまだ来ていません。chuumon shita ryouri ga mada kite imasenอาหารที่สั่งยังไม่มาเลยครับ/ค่ะもしまだ作っていなければキャンセルをお願いします。moshi mada tsukutte inakereba kyanseru wo onegai shimasuหากยังไม่ได้ทำก็ขอยกเลิกนะครับ/ค่ะお会計お願いします。okaikei onegai shimasuคิดเงินด้วยครับ/ค่ะチェックお願いします。chekku onegai shimasuคิดเงินด้วยครับ/ค่ะお会計はレジでお願いします。okaikei wa reji de onegai shimasuรบกวนชำระเงินที่แคชเชียร์นะครับ/คะ
+いらっしゃいませ。
+irasshamase
+ยินดีต้อนรับครับ/ค่ะ
+
+何名様ですか？
+nan mei sama desu ka
+กี่ท่านครับ/คะ
+
+2人です。
+futari desu
+2 คนครับ/ค่ะ
+
+喫煙ですか？禁煙ですか？
+kitsuen desu ka? kinen desu ka?
+ที่นั่งโซนสูบบุหรี่หรือไม่สูบบุหรี่ครับ/คะ
+
+こちらへどうぞ。
+kochira e douzo
+เชิญทางนี้ครับ/ค่ะ
+
+二名様ご来店です。
+ni mei sama goraiten desu
+ลูกค้าสองท่านกำลังเข้าร้านครับ/ค่ะ
+
+申し訳ありません。只今満席です。
+moushi wake arimasen tadaima manseki desu
+ต้องขออภัยด้วยนะครับ/คะ ขณะนี้ที่นั่งเต็มครับ/ค่ะ
+どれくらい待ちますか。
+dore kurai machi masu ka
+ต้องรอนานแค่ไหนครับ/คะ
+
+メニューをください。
+menyuu wo kudasai
+ขอเมนูหน่อยครับ/ค่ะ
+
+これください。
+kore kudasai
+เอาอันนี้ครับ/ค่ะ
+
+以上です。
+ijou desu
+แค่นี้ครับ/ค่ะ
+
+これは牛肉ですか？
+kore wa gyuuniku desu ka
+อันนี้คือเนื้อวัวหรือเปล่าครับ/ค่ะ
+
+わさび抜きでお願いします。
+wasabi nuki de onegai shimasu
+ขอไม่ใส่วาซาบิครับ/ค่ะ
+
+注文した料理がまだ来ていません。
+chuumon shita ryouri ga mada kite imasen
+อาหารที่สั่งยังไม่มาเลยครับ/ค่ะ
+
+もしまだ作っていなければキャンセルをお願いします。
+moshi mada tsukutte inakereba kyanseru wo onegai shimasu
+หากยังไม่ได้ทำก็ขอยกเลิกนะครับ/ค่ะ
+
+お会計お願いします。
+okaikei onegai shimasu
+คิดเงินด้วยครับ/ค่ะ
+
+チェックお願いします。
+chekku onegai shimasu
+คิดเงินด้วยครับ/ค่ะ
+
+お会計はレジでお願いします。
+okaikei wa reji de onegai shimasu
+รบกวนชำระเงินที่แคชเชียร์นะครับ/คะ
